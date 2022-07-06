@@ -1,2 +1,6 @@
 # Ignore Mac files
 .ds_store
+
+__pycache__
+img_results
+uploads
